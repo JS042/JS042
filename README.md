@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Statistics in Sungkyunkwan University.
 
 ## Education
-- `2017 - present`  Stataistic in Sungkyunkwan University.
+- `2017 - present`  Stataistics in Sungkyunkwan University.
 
 ## External activities
 - `2021.03-2021.12` Statistical Analysis group P-SAT (Dept. of Statistics in Sungkyunkwan)
